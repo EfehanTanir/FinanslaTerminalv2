@@ -10,6 +10,7 @@ FinanslaTerminal/
 ├── app.py                 ← Streamlit terminal (finansla.net/terminal) — hisse analizi
 ├── pages/
 │   └── 1_📊_Fonlar.py        ← TEFAS fon analizi sayfası (aynı uygulamada, sol menüde)
+│   └── 2_🗞️_Piyasa_Ozeti.py ← Günün En çok getiren/götüren fonları ve hisseleri
 ├── requirements.txt        ← Streamlit bağımlılıkları (yfinance + tefas-crawler dahil)
 ├── Procfile                 ← Streamlit başlatma komutu
 │
